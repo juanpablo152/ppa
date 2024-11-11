@@ -1,4 +1,4 @@
-# PPA
+![image](https://github.com/user-attachments/assets/8dd3b83b-d5a7-44d3-9912-db17a87d3dbd)# PPA
 
 # ¿Cómo ejecutar el proyecto?
 
@@ -31,3 +31,5 @@ Como ingeniero de desarrollo, se te solicita diseñar e implementar una funciona
 los usuarios consultar los posibles itinerarios entre cualquier par de aeropuertos dentro de la red de PPA, considerando
 una fecha de viaje específica. El sistema debe ser capaz de encontrar rutas directas y aquellas que involucren escalas
 en otros aeropuertos de la red, así como organizar los resultados por duración o tiempo total del viaje.
+
+![image](https://github.com/user-attachments/assets/7b2536bf-4e88-46c3-a586-463288b7fae6)
