@@ -1,0 +1,15 @@
+{
+  "name": "ppa",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "ts-node src/index.ts"
+  },
+  "author": "Juan Pablo Valencia",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
