@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/8dd3b83b-d5a7-44d3-9912-db17a87d3dbd)# PPA
 
 # ¿Cómo ejecutar el proyecto?
 
